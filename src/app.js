@@ -1,1 +1,1 @@
-angular.module( 'es6Day', [] );
+angular.module( `es6Day`, [] );
